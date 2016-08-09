@@ -1,0 +1,7 @@
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3NickTests\bin\Debug\BasicBanking3NickTests.dll
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3NickTests\bin\Debug\BasicBanking3NickTests.pdb
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3NickTests\bin\Debug\BasicBanking3.exe
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3NickTests\bin\Debug\BasicBanking3.pdb
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3NickTests\obj\Debug\BasicBanking3NickTests.csprojResolveAssemblyReference.cache
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3NickTests\obj\Debug\BasicBanking3NickTests.dll
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3NickTests\obj\Debug\BasicBanking3NickTests.pdb

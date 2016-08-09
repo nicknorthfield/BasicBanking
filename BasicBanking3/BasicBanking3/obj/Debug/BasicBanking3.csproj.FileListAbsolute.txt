@@ -1,0 +1,8 @@
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\obj\Debug\BasicBanking3.csprojResolveAssemblyReference.cache
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\obj\Debug\BasicBanking3.MainForm.resources
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\obj\Debug\BasicBanking3.csproj.GenerateResource.Cache
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\bin\Debug\BasicBanking3.exe.config
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\bin\Debug\BasicBanking3.exe
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\bin\Debug\BasicBanking3.pdb
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\obj\Debug\BasicBanking3.exe
+C:\Users\Y7NNORTH\Documents\SharpDevelop Projects\BasicBanking3\BasicBanking3\obj\Debug\BasicBanking3.pdb
